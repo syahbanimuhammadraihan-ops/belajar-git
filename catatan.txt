@@ -1,4 +1,4 @@
-Halo, ini project belajar Git saya
+Halo, ini project belajar Git versi KOMPUTER A
 Baris kedua: saya sedang belajar staging dan commit
 Ini perubahan di branch fitur-baru
 Update dari komputer A
